@@ -12,3 +12,37 @@ float luassegitiga(float a, float t) {
 }
 
 int main()
+{
+    float panjang, lebar, jejari, alas, tinggi;
+    int pilihan;
+    do {
+        cout << "\n\n======================" <<endl;
+        cout << "===========MENU=========" <<endl;
+        cout << "======================" <<endl;
+        cout << "1. Luas Persegi" <<endl;
+        cout << "2. Luas Lingkaran" <<endl;
+        cout << "3. Luas Segitia" <<endl;
+        cout << "4. Exit"<< endl;
+        cout << " Pilihan = " << endl;
+        cin >> pilihan;
+
+        switch (pilihan )
+        {
+        default:
+            break;
+        }
+
+
+
+
+
+
+
+
+
+
+    }
+
+
+
+}
